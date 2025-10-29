@@ -4,7 +4,8 @@
 
 This repository contains data analytics projects completed as part of **Luke Barousse’s “Excel for Data Analytics (Beginners)” course**. The purpose of these projects is to demonstrate foundational data analysis competencies, including data cleaning, transformation, visualization, and dashboard creation within Microsoft Excel.
 
-Each project reflects a structured analytical approach — from raw data processing to generating actionable insights that can inform strategic decision-making.
+Each project reflects a structured analytical approach — from raw data processing to generating actionable insights that can inform strategic decision-making.   
+[Excel Projects Repository - Click Here](https://github.com/Ahmadz-1/Excel-Project-Data-Analytics)    
 
 ---
 
